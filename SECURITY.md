@@ -1,0 +1,3 @@
+# Security reporting
+
+If GitHub private vulnerability reporting is available on the affected repository, use its Security tab. Otherwise contact [CTDG privately](https://ctdigital.group/contact) and request a secure reporting channel. Do not submit credentials, customer data, exploit payloads or sensitive infrastructure details in a public issue or ordinary contact form. Include the affected product, a high-level description and impact; coordinate safe reproduction details privately. Do not access other people's data or disrupt services. We will assess reports without promising a specific response or remediation deadline.

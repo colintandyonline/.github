@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: CTDG Community
+    url: https://github.com/colintandyonline/colintandyonline/discussions
+    about: Ask questions or share ideas.
+  - name: Private security contact
+    url: https://ctdigital.group/contact
+    about: Request a secure channel for vulnerability reporting.

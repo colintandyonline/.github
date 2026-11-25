@@ -1,0 +1,3 @@
+# Support
+
+For public engineering questions, visit the [CTDG community](https://github.com/colintandyonline/colintandyonline/discussions). For reproducible bugs, use the relevant repository's issue tracker. For commercial services, contact [CTDG](https://ctdigital.group/contact). Security concerns should follow [SECURITY.md](SECURITY.md). Sponsorship is voluntary support, not a service-level agreement.

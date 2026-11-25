@@ -1,0 +1,3 @@
+# Community code of conduct
+
+Treat participants with respect. Welcome different experience levels and constructive disagreement. Harassment, threats, discrimination, spam, impersonation and sharing private information without consent are unacceptable. Keep criticism focused on technical work rather than individuals. Maintainers may remove inappropriate content or restrict participation when necessary. Report concerns privately through [CTDG contact](https://ctdigital.group/contact); do not expose personal information in public discussions.
